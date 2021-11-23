@@ -1,0 +1,9 @@
+[character]
+success_symbol = "[>](bold green) "
+error_symbol = "[>](bold red) "
+
+[git_status]
+format = ''
+
+[python]
+format = 'via [${symbol}${pyenv_prefix}]($style)'
